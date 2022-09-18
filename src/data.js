@@ -1,0 +1,71 @@
+export const product = [
+  {
+    id: 1,
+    name: "تیشرت مردانه",
+    price: 150000,
+    tag: "تیشرت",
+    img: "https://dkstatics-public.digikala.com/digikala-products/116839269.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 2,
+    name: "ساعت لوکس",
+    price: 1000000,
+    tag: "ساعت",
+    img: "https://dkstatics-public.digikala.com/digikala-products/a0e1375d5aa8d4ecb0c271099f9c98cc993f4489_1639723542.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 3,
+    name: "شلوار اسلش",
+    price: 125000,
+    tag: "شلوار",
+    img: "https://dkstatics-public.digikala.com/digikala-products/3da4b01d014d34c106c15fe571e855ef8f563609_1629827661.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 4,
+    name: "پیراهن مردانه امی",
+    price: 135000,
+    tag: "پیراهن",
+    img: "https://dkstatics-public.digikala.com/digikala-products/4bfd11795b45da812798bfd4682b7a5a79ad7c08_1663237982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 5,
+    name: "تیشرت مردانه سامو",
+    price: 122000,
+    tag: "تیشرت",
+    img: "https://dkstatics-public.digikala.com/digikala-products/116713287.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 6,
+    name: "ساعت مردانه",
+    price: 899000,
+    tag: "ساعت",
+    img: "https://dkstatics-public.digikala.com/digikala-products/c5e5f925c7a9289c42d0e2c824a98fabc9622356_1656513402.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 7,
+    name: "شلوار اسلش",
+    price: 223000,
+    tag: "شلوار",
+    img: "https://dkstatics-public.digikala.com/digikala-products/5dc52160a43167edc51111dfb73a4fc82176353f_1637059203.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 8,
+    name: "پیراهن مردانه",
+    price: 178000,
+    tag: "پیراهن",
+    img: "https://dkstatics-public.digikala.com/digikala-products/d204048f35b3c14cc068b6737d67c1a68997fd6a_1661611380.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+  },
+  {
+    id: 8,
+    name: "پیراهن ",
+    price: 192000,
+    tag: "پیراهن",
+    img: "https://dkstatics-public.digikala.com/digikala-products/dc64f1fcc3437c48b43fb206b6f4b8354dbf4cef_1663236970.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80 ",
+  },
+];
+export const filter = [
+  { id: 1, tag: "تیشرت" },
+  { id: 2, tag: "ساعت" },
+  { id: 3, tag: "شلوار" },
+  { id: 4, tag: "پیراهن" },
+];

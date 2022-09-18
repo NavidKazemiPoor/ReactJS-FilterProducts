@@ -1,0 +1,34 @@
+.filter-container {
+  margin: 15px 0 0 0;
+}
+.filter-container .center {
+  max-width: 400px;
+  width: 100%;
+  justify-content: space-around;
+  border-bottom: 1px solid rgba(59, 9, 139, 0.4);
+  padding: 25px 0;
+}
+.tags {
+  color: rgb(114, 27, 255);
+  cursor: pointer;
+}
+.tags:hover {
+  color: rgb(59, 9, 139);
+  transform: scale(1.1);
+}
+
+.active {
+  color: rgb(59, 9, 139);
+  transform: scale(1.1);
+}
+
+
+@media screen and (max-width: 650px) {
+  .filter-container .center{
+    width: 100%;
+    max-width: none;
+    font-size: 14px;
+  
+  }
+  
+}
